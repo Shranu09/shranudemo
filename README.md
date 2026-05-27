@@ -1,4 +1,4 @@
 # shranudemo
 this is my first git repository
 <br>
-author - shravani pardhi
+author - shravani pardh
